@@ -1,6 +1,6 @@
 [
     {
-        "Name": "Domaine Astruc Chardonnay 2018",
+        "Name": "Domaine Astruc ",
         "Winery": "Domaine Astruc",
         "Area": "",
         "Province": "Pays d'Oc",
@@ -15,7 +15,7 @@
         "rating": 78.4314466
     },
     {
-        "Name": "Rollin Pernand Vergelesses 1er Cru Pinot Noir 2014",
+        "Name": "Rollin Pernand Vergelesses",
         "Winery": "Rollin Pernand Vergelesses",
         "Area": "",
         "Province": "",
@@ -30,7 +30,7 @@
         "rating": 79.8439466
     },
     {
-        "Name": "Black Stallion Cabernet Sauvignon 2017",
+        "Name": "Black Stallion",
         "Winery": "Black Stallion Estate Winery",
         "Area": "Napa Valley",
         "Province": "California",
@@ -45,7 +45,7 @@
         "rating": 78.89394659999999
     },
     {
-        "Name": "Stella Rosa Red NV",
+        "Name": "Stella Rosa Red",
         "Winery": "Stella Rosa",
         "Area": "Piedmont",
         "Province": "",
@@ -60,7 +60,7 @@
         "rating": 75.20571485354331
     },
     {
-        "Name": "Blue Mountain Pinot Gris 2019",
+        "Name": "Blue Mountain",
         "Winery": "Blue Mountain",
         "Area": "",
         "Province": "Okanagan Valley",
@@ -75,7 +75,7 @@
         "rating": 78.5439466
     },
     {
-        "Name": "Thornbury Sauvignon Blanc 2017",
+        "Name": "Thornbury",
         "Winery": "Thornbury",
         "Area": "",
         "Province": "Marlborough",
@@ -90,7 +90,7 @@
         "rating": 78.7439466
     },
     {
-        "Name": "14 Hands Merlot 2017",
+        "Name": "14 Hands",
         "Winery": "14 Hands",
         "Area": "Columbia Valley, Washington",
         "Province": "Washington",
@@ -105,7 +105,7 @@
         "rating": 73.29242549565217
     },
     {
-        "Name": "Claude Val Blanc White Blend 2018",
+        "Name": "Claude Val",
         "Winery": "Claude Val",
         "Area": "",
         "Province": "Pays d'Oc",
@@ -120,7 +120,7 @@
         "rating": 78.0689466
     },
     {
-        "Name": "Paradies Riesling 2018",
+        "Name": "Paradies ",
         "Winery": "Staffelter-Hof",
         "Area": "",
         "Province": "Mosel",
@@ -135,7 +135,7 @@
         "rating": 78.51894659999999
     },
     {
-        "Name": "Sequel Syrah Columbia Valley",
+        "Name": "Sequel Syrah",
         "Winery": "Sequel",
         "Area": "Columbia Valley",
         "Province": "Washington",
@@ -152,7 +152,7 @@
     
     {
         
-        "Name": "Dalliance \"GSMv\"",
+        "Name": "Dalliance",
         "Winery": "Ascension Cellars",
         "Area": "Central Coast",
         "Province": "CA",
@@ -168,7 +168,7 @@
     },
     {
        
-        "Name": "Estate Show Pony Paso Robles Red Cedar Vineyard",
+        "Name": "Estate Show",
         "Winery": "Clayhouse Wines",
         "Area": "San Luis Obispo",
         "Province": "CA",
@@ -184,7 +184,7 @@
     },
     
     {
-        "Name": "Chateau Cailleteau Bergeron OZ de Cailleteau 2015",
+        "Name": "Chateau Cailleteau",
         "Winery": "Chateau Cailleteau Bergeron",
         "Area": "Blaye Cotes de Bordeaux",
         "Province": "",
@@ -214,7 +214,7 @@
         "rating": 87.55257864000001
     },
     {
-        "Name": "Duca Bortini Terre Siciliane Sangiovese 2018",
+        "Name": "Duca Bortini Terre",
         "Winery": "Duca Bortini",
         "Area": "Sicily",
         "Province": "Sicily",
@@ -244,7 +244,7 @@
         "rating": 87.36796948571428
     },
     {
-        "Name": "Viña Alberdi Reserva 2015",
+        "Name": "Viña Alberdi",
         "Winery": "Rioja Alta",
         "Area": "Rioja",
         "Province": "Rioja",
@@ -259,7 +259,7 @@
         "rating": 87.3459644
     },
     {
-        "Name": "Robert Mondavi Private Selection Cabernet Sauvignon 2017",
+        "Name": "Robert Mondavi Private",
         "Winery": "Robert Mondavi",
         "Area": "Acampo, California",
         "Province": "",
@@ -320,7 +320,7 @@
     },
     
     {
-        "Name": "Ten Sisters Sauvignon Blanc 2019",
+        "Name": "Ten Sisters",
         "Winery": "Ten Sisters",
         "Area": "Marlborough",
         "Province": "",
@@ -351,7 +351,7 @@
     },
     
     {
-        "Name": "Tenutae Lageder 'Porer' Pinot Grigio",
+        "Name": "Tenutae Lageder",
         "Winery": "Alois Lageder",
         "Area": "Alto Adige",
         "Province": "",
@@ -366,7 +366,7 @@
         "rating": 87.0738993818182
     },
     {
-        "Name": "Weinkellerei Am Klostergarten Wollsteiner Rheingrafenstein Spatlese Kerner 2016",
+        "Name": "Weinkellerei Am",
         "Winery": "Weinkellerei Am Klostergarten",
         "Area": "Rheinhessen",
         "Province": "",
@@ -397,7 +397,7 @@
     },
     
     {
-        "Name": "Late Harvest Sauvignon Blanc",
+        "Name": "Late Harvest",
         "Winery": "Overland",
         "Area": "Sonoma County",
         "Province": "CA",
@@ -412,7 +412,7 @@
         "rating": 86.63763106666666
     },
     {
-        "Name": "Antinori Tormaresca Calafuria Rosato",
+        "Name": "Antinori Tormaresca",
         "Winery": "Antinori",
         "Area": "Apulia",
         "Province": "",
@@ -442,7 +442,7 @@
         "rating": 85.85757864
     },
     {
-        "Name": "Brut Rosé Champagne N.V.",
+        "Name": "Brut Rosé N.V.",
         "Winery": "Ruinart",
         "Area": "Brut Rose",
         "Province": "",
@@ -488,7 +488,7 @@
     },
     
     {
-        "Name": "8th Generation Confidence Frizzante",
+        "Name": "8th Generation Confidence",
         "Winery": "8th Generation",
         "Area": "Okanagan Valley",
         "Province": "",
@@ -504,7 +504,7 @@
     },
     
     {
-        "Name": "Jacob's Creek Moscato Rose 2019",
+        "Name": "Jacob's Creek",
         "Winery": "Jacob's Creek Wines",
         "Area": "Barossa",
         "Province": "South Australia",
@@ -534,7 +534,7 @@
         "rating": 83.27181146976746
     },
     {
-        "Name": "Billecart-Salmon Champagne Brut Rose",
+        "Name": "Billecart-Salmon",
         "Winery": "Billecart-Salmon",
         "Area": "",
         "Province": "Champagne",
@@ -564,7 +564,7 @@
         "rating": 82.85571756363636
     },
     {
-        "Name": "Sélección de Bodega Malbec 2016",
+        "Name": "Sélección de Bodega",
         "Winery": "Doña Paula ",
         "Area": "Mendoza",
         "Province": "",
@@ -579,7 +579,7 @@
         "rating": 83.27181146976746
     },
     {
-        "Name": "Reserve Malbec (Barrel Selection) 2018",
+        "Name": "Reserve Malbec",
         "Winery": "Salentein",
         "Area": "Tunuyán",
         "Province": "",
@@ -594,7 +594,7 @@
         "rating": 90.08777
     },
     {
-        "Name": "Pinot Noir (Monterey/Sonoma/Santa Barbara)",
+        "Name": "Pinot Noir",
         "Winery": "J Vineyard",
         "Area": "CA",
         "Province": "",
