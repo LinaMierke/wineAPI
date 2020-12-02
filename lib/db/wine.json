@@ -513,7 +513,7 @@
         "vintage": "2019",
         "nameClean": "Jacob's Creek Moscato Rose 2019 Jacob's Creek Wines Moscato",
         "Style": "",
-        "Image": "https://images.vivino.com/thumbs/ulOH4WmASEe5aT6mN98JZA_pb_600x600.png",
+        "Image": "https://images.vivino.com/thumbs/ulOH4WmASEe5aT6mN98JZA_pb_300x300.png",
         "Type": "Rose",
         "count": 82,
         "rating": 83.34971513411764
@@ -528,7 +528,7 @@
         "vintage": "2018",
         "nameClean": "",
         "Style": "",
-        "Image": "https://images.vivino.com/thumbs/oT7-Gkh-QqSbJ7tb_ffEGA_pb_x960.png",
+        "Image": "https://images.vivino.com/thumbs/oT7-Gkh-QqSbJ7tb_ffEGA_pb_300x300.png",
         "Type": "Rose",
         "count": 83,
         "rating": 83.27181146976746
@@ -543,7 +543,7 @@
         "vintage": "nv",
         "nameClean": "Billecart-Salmon Champagne Brut Rose Billecart-Salmon Champagne Blend",
         "Style": "Sparkling",
-        "Image": "https://images.vivino.com/thumbs/-opcqUgCRj6GRgeLVaxIUQ_pb_600x600.png",
+        "Image": "https://images.vivino.com/thumbs/-opcqUgCRj6GRgeLVaxIUQ_pb_300x300.png",
         "Type": "Rose",
         "count": 2,
         "rating": 83.01515728
@@ -558,7 +558,7 @@
         "vintage": "nv",
         "nameClean": "Cipes Brut Rose Summerhill Pyramid Winery",
         "Style": "",
-        "Image": "https://images.vivino.com/thumbs/X5kGmPM3RF--9qzu47BEHQ_pb_x600.png",
+        "Image": "https://images.vivino.com/thumbs/X5kGmPM3RF--9qzu47BEHQ_pb_300x300.png",
         "Type": "Rose",
         "count": 19,
         "rating": 82.85571756363636
@@ -573,13 +573,13 @@
         "vintage": "2016",
         "nameClean": "",
         "Style": "",
-        "Image": "https://images.vivino.com/thumbs/73XqIGVLRr6uu5IHvPFlrQ_pb_600x600.png",
+        "Image": "https://images.vivino.com/thumbs/73XqIGVLRr6uu5IHvPFlrQ_pb_300x300.png",
         "Type": "Red",
         "count": 83,
         "rating": 83.27181146976746
     },
     {
-        "Name": "Reserve Malbec",
+        "Name": "Salentein",
         "Winery": "Salentein",
         "Area": "Tunuyán",
         "Province": "",
@@ -588,7 +588,7 @@
         "vintage": "2018",
         "nameClean": "",
         "Style": "",
-        "Image": "https://images.vivino.com/thumbs/svr93J5eQEibPp6hHtC7fQ_pb_600x600.png",
+        "Image": "https://images.vivino.com/thumbs/svr93J5eQEibPp6hHtC7fQ_pb_300x300.png",
         "Type": "Red",
         "count": 83,
         "rating": 90.08777
@@ -603,13 +603,13 @@
         "vintage": "2017",
         "nameClean": "",
         "Style": "",
-        "Image": "https://images.vivino.com/thumbs/KF23zD8UTnGY_FVVAl6w7Q_pb_600x600.png",
+        "Image": "https://images.vivino.com/thumbs/ZKdeE4fJQXqCEramA95Y_A_pb_300x300.png",
         "Type": "Red",
         "count": 83,
         "rating": 45.44585858
     },
     {
-        "Name": "Winemaker's Selection",
+        "Name": "Portada",
         "Winery": "J Vineyard",
         "Area": "Lisboa",
         "Province": "",
