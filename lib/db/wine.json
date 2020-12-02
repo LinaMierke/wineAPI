@@ -39,7 +39,7 @@
         "vintage": "2017",
         "nameClean": "Black Stallion Cabernet Sauvignon 2017 Black Stallion Estate Winery Cabernet Sauvignon",
         "Style": "",
-        "Image": "https://images.vivino.com/thumbs/AgJ8ziMgQlWEg1HeJXLbYA_pb_x960.png",
+        "Image": "https://images.vivino.com/thumbs/AgJ8ziMgQlWEg1HeJXLbYA_pb_300x300.png",
         "Type": "Red",
         "count": 1,
         "rating": 78.89394659999999
@@ -54,7 +54,7 @@
         "vintage": "nv",
         "nameClean": "Stella Rosa Red NV Stella Rosa Red Blend",
         "Style": "",
-        "Image": "https://images.vivino.com/thumbs/U2y9IGhIQBCKnud-IErc9Q_pb_x960.png",
+        "Image": "https://images.vivino.com/thumbs/U2y9IGhIQBCKnud-IErc9Q_pb_300x300.png",
         "Type": "Red",
         "count": 124,
         "rating": 75.20571485354331
@@ -68,7 +68,7 @@
         "Varietal": "Pinot Gris",
         "vintage": "2019",
         "nameClean": "Blue Mountain Pinot Gris 2019 Blue Mountain Pinot Gris",
-        "Style": "https://images.vivino.com/thumbs/2JcdsSdHTd2x0gn08zkKpA_pb_600x600.png",
+        "Style": "https://images.vivino.com/thumbs/Vv9igIL7RB6seinKhANpgw_pb_300x300.png",
         "Tags": "",
         "Type": "White",
         "count": 1,
@@ -99,7 +99,7 @@
         "vintage": "2017",
         "nameClean": "14 Hands Merlot 2017 14 Hands Merlot",
         "Style": "",
-        "Image": "https://images.vivino.com/thumbs/yRRPzxlXT76mYXggyFjXFg_pb_x960.png",
+        "Image": "https://images.vivino.com/thumbs/W_OrZNzkQfef4-T3fStvaw_pb_300x300.png",
         "Type": "Red",
         "count": 20,
         "rating": 73.29242549565217
@@ -114,7 +114,7 @@
         "vintage": "2018",
         "nameClean": "Claude Val Blanc White Blend 2018 Claude Val White Blend",
         "Style": "",
-        "Image": "https://images.vivino.com/thumbs/Y_R5rolHQ0uI8V-j8BAkog_pb_x960.png",
+        "Image": "https://images.vivino.com/thumbs/Y_R5rolHQ0uI8V-j8BAkog_pb_600x600.png",
         "Type": "White",
         "count": 1,
         "rating": 78.0689466
@@ -199,7 +199,7 @@
         "rating": 88.1219733
     },
     {
-        "Name": "Mayhem",
+        "Name": "Matthews",
         "Winery": "Ascension Cellars",
         "Area": "Central Coast",
         "Province": "CA",
@@ -208,7 +208,7 @@
         "vintage": "2011",
         "nameClean": "Mayhem Ascension Cellars Syrah, Petit Syrah, Grenache",
         "Style": "",
-        "Image": "https://images.vivino.com/thumbs/kr9jGHieQECBAzqYt704Ng_pb_x600.png",
+        "Image": "https://images.vivino.com/thumbs/mTFFbwvqR26sxyl9tgB79w_pb_600x600.png",
         "Type": "Red",
         "count": 7,
         "rating": 87.55257864000001
@@ -320,16 +320,16 @@
     },
     
     {
-        "Name": "Ten Sisters",
+        "Name": "Goats do Roam",
         "Winery": "Ten Sisters",
         "Area": "Marlborough",
         "Province": "",
-        "Country": "New Zealand",
+        "Country": "South Africa",
         "Varietal": "Sauvignon Blanc",
         "vintage": "2019",
         "nameClean": "Ten Sisters Sauvignon Blanc 2019 Ten Sisters Sauvignon Blanc",
         "Style": "",
-        "Image": "https://images.vivino.com/thumbs/891sZWLPRfaV1vvgfyrqMA_pb_x960.png",
+        "Image": "https://images.vivino.com/thumbs/pntqacUtT6-FZoTCqYL1oA_pb_600x600.png",
         "Type": "White",
         "count": 13,
         "rating": 88.08911164999999
