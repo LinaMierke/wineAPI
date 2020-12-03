@@ -68,7 +68,7 @@
         "Varietal": "Pinot Gris",
         "vintage": "2019",
         "nameClean": "Blue Mountain Pinot Gris 2019 Blue Mountain Pinot Gris",
-        "Style": "https://images.vivino.com/thumbs/hvnde6B1RKmDFlO9Ej0CTA_pb_600x600.png",
+        "Image": "https://images.vivino.com/thumbs/hvnde6B1RKmDFlO9Ej0CTA_pb_600x600.png",
         "Tags": "",
         "Type": "White",
         "count": 1,
@@ -451,7 +451,7 @@
         "vintage": "2014",
         "nameClean": "Brut Rosé Champagne N.V",
         "Style": "",
-        "Tags": "https://images.vivino.com/thumbs/J0Dp6I3eREma6PrZSQPwew_pb_300x300.png",
+        "Image": "https://images.vivino.com/thumbs/J0Dp6I3eREma6PrZSQPwew_pb_300x300.png",
         "Type": "Rosé",
         "count": 5,
         "rating": 85.4282233
