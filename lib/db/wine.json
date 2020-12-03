@@ -42,7 +42,7 @@
         "Image": "https://images.vivino.com/thumbs/AgJ8ziMgQlWEg1HeJXLbYA_pb_300x300.png",
         "Type": "Red",
         "count": 1,
-        "rating": 78.89394659999999
+        "rating": 78.893946599
     },
     {
         "Name": "Stella Rosa Red",
@@ -57,18 +57,18 @@
         "Image": "https://images.vivino.com/thumbs/U2y9IGhIQBCKnud-IErc9Q_pb_300x300.png",
         "Type": "Red",
         "count": 124,
-        "rating": 75.20571485354331
+        "rating": 75.205714853
     },
     {
-        "Name": "Blue Mountain",
-        "Winery": "Blue Mountain",
+        "Name": "Cabriz",
+        "Winery": "Dão Colheita Seleccionada White",
         "Area": "",
         "Province": "Okanagan Valley",
-        "Country": "Canada",
+        "Country": "Portugal",
         "Varietal": "Pinot Gris",
         "vintage": "2019",
         "nameClean": "Blue Mountain Pinot Gris 2019 Blue Mountain Pinot Gris",
-        "Style": "https://images.vivino.com/thumbs/Vv9igIL7RB6seinKhANpgw_pb_300x300.png",
+        "Style": "https://images.vivino.com/thumbs/hvnde6B1RKmDFlO9Ej0CTA_pb_600x600.png",
         "Tags": "",
         "Type": "White",
         "count": 1,
@@ -102,7 +102,7 @@
         "Image": "https://images.vivino.com/thumbs/W_OrZNzkQfef4-T3fStvaw_pb_300x300.png",
         "Type": "Red",
         "count": 20,
-        "rating": 73.29242549565217
+        "rating": 73.292425495
     },
     {
         "Name": "Claude Val",
@@ -132,7 +132,7 @@
         "Image": "https://images.vivino.com/thumbs/cmF5tUQtSna5uIxT06Qo7Q_pb_600x600.png",
         "Type": "White",
         "count": 1,
-        "rating": 78.51894659999999
+        "rating": 78.518946599
     },
     {
         "Name": "Sequel Syrah",
@@ -164,7 +164,7 @@
         "Image": "https://images.vivino.com/thumbs/OVM1dQEcS1-cgkD_R7IzAQ_pb_600x600.png",
         "Type": "Red",
         "count": 5,
-        "rating": 89.42197329999999
+        "rating": 89.421973299
     },
     {
        
@@ -180,7 +180,7 @@
         "Image": "https://images.vivino.com/thumbs/W8yD-zMJQUWswLWI3OO3hw_pb_600x600.png",
         "Type": "Red",
         "count": 8,
-        "rating": 88.99779876363635
+        "rating": 88.9977987
     },
     
     {
@@ -211,7 +211,7 @@
         "Image": "https://images.vivino.com/thumbs/mTFFbwvqR26sxyl9tgB79w_pb_600x600.png",
         "Type": "Red",
         "count": 7,
-        "rating": 87.55257864000001
+        "rating": 87.552578640
     },
     {
         "Name": "Duca Bortini Terre",
@@ -241,7 +241,7 @@
         "Image": "https://images.vivino.com/thumbs/To7HwI4fSWiIC47aXTVKzA_pb_600x600.png",
         "Type": "Red",
         "count": 4,
-        "rating": 87.36796948571428
+        "rating": 87.36796948
     },
     {
         "Name": "Viña Alberdi",
@@ -271,7 +271,7 @@
         "Image": "https://images.vivino.com/thumbs/iwMEhRfWRdG_Thqy2pb5xA_pb_600x600.png",
         "Type": "Red",
         "count": 33,
-        "rating": 87.34377184444445
+        "rating": 87.343771
     },
     {
         "Name": "White Oak",
@@ -286,7 +286,7 @@
         "Image": "https://images.vivino.com/thumbs/F3Nx7-EeQmOAWVGSZ5UadQ_pb_600x600.png",
         "Type": "Red",
         "count": 9,
-        "rating": 87.33548219999999
+        "rating": 87.3354821
     }, 
     {
         "Name": "IV",
@@ -316,7 +316,7 @@
         "Image": "https://images.vivino.com/thumbs/pphrJf7rTfuzZyCd9318wg_pb_600x600.png",
         "Type": "White",
         "count": 16,
-        "rating": 90.62767296842105
+        "rating": 90.62767296
     },
     
     {
@@ -332,7 +332,7 @@
         "Image": "https://images.vivino.com/thumbs/pntqacUtT6-FZoTCqYL1oA_pb_600x600.png",
         "Type": "White",
         "count": 13,
-        "rating": 88.08911164999999
+        "rating": 88.08911164
     },
     {
         "Name": "Perpetua",
@@ -347,7 +347,7 @@
         "Image": "https://images.vivino.com/thumbs/Aj7BnMPVTeezbBafnnN6Kw_pb_600x600.png",
         "Type": "White",
         "count": 4,
-        "rating": 87.43225519999999
+        "rating": 87.4322551
     },
     
     {
@@ -363,7 +363,7 @@
         "Image": "https://images.vivino.com/thumbs/vHXw3ocFRGy5gwh1CyraWw_pb_600x600.png",
         "Type": "White",
         "count": 19,
-        "rating": 87.0738993818182
+        "rating": 87.07389938
     },
     {
         "Name": "Weinkellerei Am",
@@ -378,7 +378,7 @@
         "Image": "https://images.vivino.com/thumbs/eoaHjopdQgqiDG_cdSM6-g_pb_600x600.png",
         "Type": "White",
         "count": 6,
-        "rating": 87.06953182222222
+        "rating": 87.069531822
     },
     {
         "Name": "Attems Cicinis",
@@ -409,7 +409,7 @@
         "Image": "https://images.vivino.com/thumbs/WhPrj-IERFOjDwzMyMQIXw_pb_600x600.png",
         "Type": "White",
         "count": 3,
-        "rating": 86.63763106666666
+        "rating": 86.637631066
     },
     {
         "Name": "Calafuria",
@@ -424,10 +424,10 @@
         "Image": "https://images.vivino.com/thumbs/Zv8dErC6QjO2tpqsniodwg_pb_300x300.png",
         "Type": "Rosé",
         "count": 3,
-        "rating": 86.62096439999999
+        "rating": 86.62096439
     },
     {
-        "Name": "Miraval",
+        "Name": "Lafage",
         "Winery": "Miraval",
         "Area": "Provence",
         "Province": "",
@@ -436,22 +436,22 @@
         "vintage": "2016",
         "nameClean": "Miraval",
         "Style": "",
-        "Image": "https://images.vivino.com/thumbs/UEBR8YCZRECdJTQSFu0E-g_pb_x300.png",
+        "Image": "https://images.vivino.com/thumbs/4dwczSAOTdWbP9jIZ0nR8A_pb_300x300.png",
         "Type": "Rosé",
         "count": 7,
         "rating": 85.85757864
     },
     {
-        "Name": "Ruinart",
+        "Name": "Summer in a Bottle",
         "Winery": "Ruinart",
         "Area": "Brut Rosé",
         "Province": "",
-        "Country": "France",
+        "Country": "USA",
         "Varietal": "Grenache",
         "vintage": "2014",
         "nameClean": "Brut Rosé Champagne N.V",
         "Style": "",
-        "Tags": "https://images.vivino.com/thumbs/Eg22whhBTpi3ri01QV1f-w_pb_300x300.png",
+        "Tags": "https://images.vivino.com/thumbs/J0Dp6I3eREma6PrZSQPwew_pb_300x300.png",
         "Type": "Rosé",
         "count": 5,
         "rating": 85.4282233
@@ -472,35 +472,35 @@
         "rating": 84.63515728
     },
     {
-        "Name": "Mateus",
+        "Name": "Altaneve",
         "Winery": "Intrigue Wines",
         "Area": "Okanagan Valley",
         "Province": "Douro",
-        "Country": "Portugal",
+        "Country": "Italy",
         "Varietal": "",
         "vintage": "nv",
         "nameClean": "The original",
         "Style": "",
-        "Image": "https://images.vivino.com/thumbs/b6KxPqfgQoG4eI12V11zyQ_pb_300x300.png",
+        "Image": "https://images.vivino.com/thumbs/6af2zpsrTKuyGtcm48NbxA_pb_300x300.png",
         "Type": "Rosé",
         "count": 20,
-        "rating": 84.26416462608695
+        "rating": 84.2641646260
     },
     
     {
-        "Name": "8th Generation",
-        "Winery": "8th Generation",
-        "Area": "Okanagan Valley",
+        "Name": "Whispering Angel",
+        "Winery": "",
+        "Area": "wi",
         "Province": "",
-        "Country": "Canada",
-        "Varietal": "Pinot Noir, Pinot Gris",
-        "vintage": "nv",
-        "nameClean": "8th Generation Confidence Frizzante 8th Generation Pinot Noir, Pinot Gris",
+        "Country": "France",
+        "Varietal": "",
+        "vintage": "2014",
+        "nameClean": "8th Generation ",
         "Style": "",
-        "Image": "https://www.8thgeneration.com/assets/images/products/pictures/ConfidencePETITE.png",
+        "Image": "https://images.vivino.com/thumbs/Ki7znlmVT7iu_na3qUqRpw_pb_300x300.png",
         "Type": "Rosé",
         "count": 20,
-        "rating": 83.91851245217391
+        "rating": 83.9185124
     },
     
     {
@@ -516,7 +516,7 @@
         "Image": "https://images.vivino.com/thumbs/ulOH4WmASEe5aT6mN98JZA_pb_300x300.png",
         "Type": "Rosé",
         "count": 82,
-        "rating": 83.34971513411764
+        "rating": 83.34971513
     },
     {
         "Name": "Rosato",
@@ -531,7 +531,7 @@
         "Image": "https://images.vivino.com/thumbs/oT7-Gkh-QqSbJ7tb_ffEGA_pb_300x300.png",
         "Type": "Rosé",
         "count": 83,
-        "rating": 83.27181146976746
+        "rating": 83.2718114697
     },
     {
         "Name": "Billecart-Salmon",
@@ -546,7 +546,7 @@
         "Image": "https://images.vivino.com/thumbs/-opcqUgCRj6GRgeLVaxIUQ_pb_300x300.png",
         "Type": "Rosé",
         "count": 2,
-        "rating": 83.01515728
+        "rating": 83.0151572
     },
     {
         "Name": "Prophecy",
@@ -561,7 +561,7 @@
         "Image": "https://images.vivino.com/thumbs/i94JS049TFeGpZ-Kg5RSWw_pb_300x300.png",
         "Type": "Rosé",
         "count": 19,
-        "rating": 62.85571756363636
+        "rating": 62.85571756
     },
     {
         "Name": "Sélección de Bodega",
@@ -576,7 +576,7 @@
         "Image": "https://images.vivino.com/thumbs/73XqIGVLRr6uu5IHvPFlrQ_pb_300x300.png",
         "Type": "Red",
         "count": 83,
-        "rating": 83.27181146976746
+        "rating": 83.271811
     },
     {
         "Name": "Salentein",
@@ -622,6 +622,21 @@
         "Type": "White",
         "count": 83,
         "rating": 69.46363633
+    },
+    {
+        "Name": "Âme du Vin",
+        "Winery": "J Vineyard",
+        "Area": "Lisboa",
+        "Province": "",
+        "Country": "France",
+        "Varietal": "White",
+        "vintage": "2020",
+        "nameClean": "",
+        "Style": "",
+        "Image": "https://images.vivino.com/thumbs/O5l1PdYoTPe3-4mkUEbY0w_pb_300x300.png",
+        "Type": "White",
+        "count": 83,
+        "rating": 98.8766
     }
 
 
