@@ -15,7 +15,7 @@
         "rating": 78.4314466
     },
     {
-        "Name": "Rollin Pernand",
+        "Name": "Pernand",
         "Winery": "Rollin Pernand Vergelesses",
         "Area": "",
         "Province": "",
@@ -45,7 +45,7 @@
         "rating": 78.893946599
     },
     {
-        "Name": "Stella Rosa Red",
+        "Name": "Stella Rosa ",
         "Winery": "Stella Rosa",
         "Area": "Piedmont",
         "Province": "",
@@ -120,7 +120,7 @@
         "rating": 78.0689466
     },
     {
-        "Name": "Paradies",
+        "Name": "Staffelter-Hof",
         "Winery": "Staffelter-Hof",
         "Area": "",
         "Province": "Mosel",
@@ -214,7 +214,7 @@
         "rating": 87.552578640
     },
     {
-        "Name": "Duca Bortini Terre",
+        "Name": "Duca Bortini",
         "Winery": "Duca Bortini",
         "Area": "Sicily",
         "Province": "Sicily",
@@ -351,7 +351,7 @@
     },
     
     {
-        "Name": "Tenutae Lageder",
+        "Name": "Porer",
         "Winery": "Alois Lageder",
         "Area": "Alto Adige",
         "Province": "",
@@ -366,7 +366,7 @@
         "rating": 87.07389938
     },
     {
-        "Name": "Weinkellerei Am",
+        "Name": "Weinkellerei",
         "Winery": "Weinkellerei Am Klostergarten",
         "Area": "Rheinhessen",
         "Province": "",
@@ -381,7 +381,7 @@
         "rating": 87.069531822
     },
     {
-        "Name": "Attems Cicinis",
+        "Name": "Cicinis",
         "Winery": "Attems",
         "Area": "Friuli-Venezia Giulia",
         "Province": "",
@@ -564,7 +564,7 @@
         "rating": 62.85571756
     },
     {
-        "Name": "Sélección de Bodega",
+        "Name": "Doña Paula",
         "Winery": "Doña Paula ",
         "Area": "Mendoza",
         "Province": "",
