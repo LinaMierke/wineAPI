@@ -91,6 +91,8 @@ app.post("/users/register", (req, res) => {
    })
 })
 
+var cors = require('cors');
+app.use(cors())
 
 
 app.get("/users/getuser", (req, res) => res.send(req.user))
