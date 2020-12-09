@@ -59,6 +59,22 @@ app.post("/users/login", (req, res, next) => {
     })(req, res, next)
 })
 
+// app.post("/users/login", (req, res, next) => {
+    
+//     passport.authenticate("local", (err, user, info) => {
+//         console.log("we are here!")
+//         if (err) throw err
+//         if (!user) res.send("User doesn't exist")
+//         else {
+//             req.login(user, err => {
+//                 if (err) throw err
+//                 res.send("Authentication completed")
+//                 console.log(req.user)
+//             })
+//         }
+//     })(req, res, next)
+// })
+
 app.post("/users/register", (req, res) => {
    User.findOne({ username: req.body.username }, async (err, doc) => { 
         if (err) throw err
@@ -74,6 +90,8 @@ app.post("/users/register", (req, res) => {
         }
    })
 })
+
+
 
 app.get("/users/getuser", (req, res) => res.send(req.user))
 
