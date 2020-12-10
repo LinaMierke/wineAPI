@@ -27,8 +27,9 @@ app.use(express.json())
 app.use(parser.json());
 // var cors = require('cors');
 app.use(cors({
-    origin: "http://localhost:3001",
-    credentials: true,
+    origin: "http://localhost:3000",
+    // AccessControlAllowOrigin: 'http://localhost:3001',
+    credentials: true
 })
 )
 
@@ -63,7 +64,7 @@ app.post("/users/login", (req, res, next) => {
 })
 
 app.post("/users/login", (req, res, next) => {
-  User.find({ username: req.body.username}).then(userFind =>{   
+//   User.find({ username: req.body.username}).then(userFind =>{   
     passport.authenticate("local", (err, user, info) => {
         console.log("we are here!")
         if (err) throw err
@@ -76,7 +77,7 @@ app.post("/users/login", (req, res, next) => {
             })
         }
     })(req, res, next)
-    })
+    // })
 })
 
 app.post("/users/register", (req, res) => {
@@ -105,6 +106,7 @@ app.use(require("./lib/routes/index"))
 app.set("port", process.env.PORT || 8080)
 app.listen(app.get("port"), () => console.log('listening on port '))
 
+//possible solution 
 
 // app.use((req, res, next) => {
 //     res.header('Access-Control-Allow-Origin', '*');
