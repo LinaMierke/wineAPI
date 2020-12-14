@@ -9,12 +9,12 @@ The Wine database contains a lib folder, where you can find the data, connection
 
 # Objectives: 
 
-1. Create a database about countries.
+1. Create a database about wines guided by the schema of Quinni wine API.
 2. Have an accesible Api source for future projects.
 3. Understand MongoDB-express and Node.
 4. Create an API for the front end-group project.
 
-# CRUD Functionality
+# CRUD Functionality Wines
 
 |      URL                |  Path        |  Method       |   Action |   Description                 |
 |-------------------------|--------------|---------------|----------|-------------------------------|
@@ -25,7 +25,16 @@ The Wine database contains a lib folder, where you can find the data, connection
 | "/raiting/:raiting"         |   /raiting      |   PATCH / PUT |  #update | Update raitings             |
 | "/delete/:id"           |   /id        |   DELETE      | #destroy | Delete by id                  |
 
+# CRUD Functionality Reviews
 
+|      URL                |  Path        |  Method       |   Action |   Description                 |
+|-------------------------|--------------|---------------|----------|-------------------------------|
+|       "/"               |   /          |   GET         |  #index  |  List all reviews  |
+| "/type/:type"       |   /type   |   GET         |  #index  | Show resources by type: Red, White, Rosé |
+| "/country/:country"           |   /country     |   GET         |  #index  | Show character by name        |
+|       "/"               |   /          |   POST        |  #create | Create a new  wine review       |
+| "/review/:review"         |   /review      |   PATCH / PUT |  #update | Update raitings             |
+| "/delete/:id"           |   /id        |   DELETE      | #destroy | Delete by id                  |
 
 # Documentation
 

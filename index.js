@@ -1,4 +1,5 @@
 require("dotenv").config()
+require("./lib/db/connections")
 const express = require('express')
 const app = express ()
 const cors = require("cors");
@@ -9,19 +10,19 @@ const passportlocal = require('passport-local').Strategy
 const session = require('express-session')
 const bcrypt = require('bcryptjs')
 const User = require("./lib/models/user");
-// const mongoose = require("mongoose")
+const mongoose = require("mongoose")
 // const bodyParser = ('body-parser')
 const {deserializeUser} = require("passport")
 
-// mongoose.connect(
-//     "mongodb+srv://wineoclock:123@cluster0.0dzdb.mongodb.net/<dbname>?retryWrites=true&w=majority", 
-//     {
-//         useNewUrlParser: true  
-//     },
-//     () => {
-//         console.log("connected to mongoose")
-//     }
-// )
+mongoose.connect(
+    "mongodb+srv://wineoclock:123@cluster0.0dzdb.mongodb.net/<dbname>?retryWrites=true&w=majority", 
+    {
+        useNewUrlParser: true  
+    },
+    () => {
+        console.log("connected to mongoose")
+    }
+)
 
 //middleware
 app.use(express.json())
